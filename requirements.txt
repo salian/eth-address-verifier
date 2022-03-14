@@ -1,0 +1,10 @@
+cytoolz==0.11.2
+eth-hash==0.3.2
+eth-keys==0.4.0
+eth-typing==3.0.0
+eth-utils==2.0.0
+pycryptodome==3.14.1
+pysha3==1.0.2
+rlp==3.0.0
+toolz==0.11.2
+hdwallet~=2.1.1
